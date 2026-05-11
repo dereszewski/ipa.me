@@ -1,0 +1,2 @@
+IPAFILESLIST
+1. NAME: EXAMPLE || APPSTORE: https://apps.apple.com/us/app/youtube/id544007664 GITHUBDIRECTDOWNLOAD: https://github.com/xxx/xxx/xxx/xxx/xxx/ ||
