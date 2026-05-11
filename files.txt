@@ -1,2 +1,2 @@
 IPAFILESLIST
-1. NAME: Spotify Mod || UNOFFICIALDOWNLOAD: https://files.catbox.moe/ck4dqm.ipa || ICON: https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotC++%20AppIcon.png ||
+1. NAME: Spotify Mod || UNOFFICALDOWNLOAD: https://files.catbox.moe/ck4dqm.ipa || ICON: https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotC++%20AppIcon.png ||
