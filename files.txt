@@ -1,3 +1,4 @@
 IPAFILESLIST
 1. NAME: Spotify Mod || UNOFFICIALDOWNLOADTRUSTED: https://files.catbox.moe/ck4dqm.ipa || ICON: https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotC++%20AppIcon.png ||
 2. NAME: Roblox [Official] || APPSTORE: https://apps.apple.com/app/roblox/id431946152 || GITHUBDIRECTDOWNLOAD: https://github.com/dereszewski/ipa.me/releases/download/releasethefiles/com.roblox.robloxmobile_2.720.1164_und3fined.ipa || ICON: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/bf/cd/56bfcda5-c067-db5b-d89f-d08ade26fadf/Placeholder.mill/200x200bb-75.webp ||
+3. NAME: Spotify [Official] || APPSTORE: https://apps.apple.com/app/spotify-music-and-podcasts/id324684580 || GITHUBDIRECTDOWNLOAD: https://github.com/dereszewski/ipa.me/releases/download/releasethefiles/com.spotify.client_9.1.44_und3fined.ipa || ICON: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/aa/2b/a6aa2b22-59d1-05ba-0bd8-29f8c518ec41/Placeholder.mill/200x200bb-75.webp ||
