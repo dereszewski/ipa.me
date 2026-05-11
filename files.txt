@@ -1,2 +1,2 @@
 IPAFILESLIST
-1. NAME: EXAMPLE || APPSTORE: https://apps.apple.com/us/app/youtube/id544007664 GITHUBDIRECTDOWNLOAD: https://github.com/xxx/xxx/xxx/xxx/xxx/ || ICON: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/15/84/44158402-c8d3-52f0-4775-4de7aa0df81d/AppIcon-0-1x_U007epad-0-0-0-1-0-85-220-0.png/146x0w.webp ||
+1. NAME: Spotify Mod || GITHUBDIRECTDOWNLOAD: https://files.catbox.moe/ck4dqm.ipa || ICON: https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotC++%20AppIcon.png ||
