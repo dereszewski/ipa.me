@@ -1,0 +1,16 @@
+instructions:
+Tag	Meaning	Embed color
+[Trusted]	Verified safe source	🟢 Green
+[Mod]	Modified app	🟠 Orange
+[Tweaked]	Tweaked/patched app	🟣 Purple
+[Cracked]	Cracked/unlocked app	🔴 Red
+[Official]	Official release	🔵 Blue
+
+
+Download Fields
+Field	Meaning
+APPSTORE:	Link to App Store page. Put none to skip.
+GITHUBDIRECTDOWNLOAD:	Official IPA hosted on GitHub. Put none to skip.
+UNOFFICIALDOWNLOAD:	Unverified 3rd party link — shows ⚠️ Untrusted
+UNOFFICIALDOWNLOADTRUSTED:	Community-verified link — shows ✅ Trusted Unofficial
+ICON:	App icon thumbnail (.png .jpg .jpeg .webp .webm .gif)
